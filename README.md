@@ -28,7 +28,7 @@
 - 价值保守与隐式约束
   - CQL、IQL、TD3+BC、EDAC、Cal-QL、ReBRAC
 - 序列建模与生成式架构
-  - Decision Transformer、MAGE、PRGS、MoGE
+  - Decision Transformer、MAGE、PRGS
 
 ### 2. 世界模型与基于模型的强化学习 (World Models & MBRL)
 解决痛点：学习环境模型进行虚拟试错，样本效率提升 10–100 倍
